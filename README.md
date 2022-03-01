@@ -22,7 +22,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=kiranbanstola&show_icons=true&theme=dark&icon_color=6392DF" alt="kiran github stats"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiranbanstola&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranbanstola&theme=dark" alt="kiranbanstola" /></p>
+
 
 
 
