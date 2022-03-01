@@ -3,7 +3,7 @@
 <br>
 
 
- <img align=center, width=45px >About Me:
+<img , width=45px >About Me:
 
 - 🌱 I’m currently working as **UX/UI Designer Freelance** 
 
