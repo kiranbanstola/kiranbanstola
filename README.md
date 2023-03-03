@@ -11,7 +11,7 @@ About Me:
 
 - 📫 How to reach me **banstolakiran11@gmail.com**
 
-- 🌐 Portfolio - [http://www.kiranbanstola.com](www.kiranbanstola.com)
+- 🌐 Portfolio - [http://www.kiranbanstola.com](Checkout my Website)
 
 -🖥️ Tools & Technologies:
 
