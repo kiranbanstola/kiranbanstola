@@ -3,7 +3,7 @@
 <br>
 
 
-<img , width=45px >About Me:
+About Me:
 
 - 🌱 I’m currently working as **UX/UI Designer Freelance** 
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **banstolakiran11@gmail.com**
 
-- 🌐 Portfolio - [http://www.kiranbanstola.com.np](www.kiranbanstola.com.np)
+- 🌐 Portfolio - [http://www.kiranbanstola.com](www.kiranbanstola.com)
 
 -🖥️ Tools & Technologies:
 
